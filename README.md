@@ -160,3 +160,29 @@ In the real world, users are used to viewing menus in systematic categories and 
 **Evaluation:**
 While in general Yelp offers users a fair amount of control deep within the site, there is a fundamental lack of consistency when a user enters the home page. The homepage displays ever-changing and random categories of businesses and marks no clear direction for what the user must do. It also does not showcase the very useful functionalities of filters that only emerge later in user flows. This may lead users down paths they do not wish to with unclear routes of exit or resetting.
 
+### 4. Consistency and Standards
+*(Users should not have to wonder whether different words, situations, or actions mean the same thing. Follow platform conventions.)*
+
+**Severity rating: 4**
+
+**Evaluation**
+The Yelp website uses different forms of representing information on different pages of its website. It uses words like home services on one page and then separately lists out random home services on another page with the different levels of hierarchy. This is alright is the user for sure knows what they are looking for but is frustrating for users who do not have a clear understanding of what they need. Furthermore, in some cases, like when it uses the dollar signs to describe prices, there is no clear understanding of what the $ or $$ numerically represents. This creates a sense of inconsistency which may translate into users getting confused or not finding the website reliable as a whole. 
+
+![dollar](https://github.com/anerichouhan/dh150/blob/master/Screen%20Shot%202020-04-08%20at%201.50.43%20PM.png)
+
+### 5. Error Prevention 
+*(Even better than good error messages is a careful design which prevents a problem from occurring in the first place.)*
+
+**Severity rating: 3**
+
+**Evaluation:**
+When a user has selected several filters but is about to go back or click on something else, Yelp does not issue a warning to the user to inform them that all their selections will be lost. This may lead to an error on the user's end and may lead them to be frustrating. Another example of the lack of error preventing UX is that while signing up, users are not asked to confirm their password. This could lead to frustrations later on as the user might enter a password that is different from what they intended to answer. 
+
+
+### 6. Recognition rather than recall
+*(Make objects, actions, and options visible. User should not have to remember information from one part of the dialogue to another. Instructions for use of the system should be visible or easily retrievable whenever appropriate.)*
+
+**Severity rating: 3**
+
+**Evaluation:**
+Yelp does a good job with recognition on some pages by providing a list of filters that the user may apply in order to get to their search results faster. But it fails to consistemtly apply it to all pages. When a user comes to the home page of yelp, they have to remember the details of what they are looking for. Yelp provides minimal prompting to help narrow the search down in the beginning. The might make it difficult for users to navigate through the site because they need to store more information in their minds. 
