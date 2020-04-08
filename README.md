@@ -186,3 +186,37 @@ When a user has selected several filters but is about to go back or click on som
 
 **Evaluation:**
 Yelp does a good job with recognition on some pages by providing a list of filters that the user may apply in order to get to their search results faster. But it fails to consistemtly apply it to all pages. When a user comes to the home page of yelp, they have to remember the details of what they are looking for. Yelp provides minimal prompting to help narrow the search down in the beginning. The might make it difficult for users to navigate through the site because they need to store more information in their minds. 
+
+### 7. Flexibility and efficiency of use 
+*(Accelerators -- unseen by the novice user -- may often speed up the interaction for the expert user so that the system can cater to both inexperienced and experienced users.  Allow users to tailor frequent actions.)*
+
+**Severity rating: 4**
+
+**Evaluation:**
+Yelp provides several features for the seasoned user but does not offer acceleraters to new users. When a new user enters the yelp website they are provided with random blocks of information and a lack of valid calls to action. On some pages important pieces of information are either too small or at the bottom of the page. While seasoned users may know where to find these, a novel user might not. This may lead to the user feeling confused or unhelped when they first come to the website. Yelp does have the infrastructure and UX elements to provide the needed accelerators but fails to so in its intial screens.
+
+### 8. Aesthetic and minimalistic design
+*(Dialogues should not contain information which is irrelevant or rarely needed.  Every extra unit of information in a dialogue competes with the relevant units of information and diminishes their relative visibility.)*
+
+**Severity rating: 3**
+
+**Evaluation:**
+On some pages Yelp portrays a clean and simple design but on many, due to the abundance of information, screens appear cluttered and unorganized. In order to ensure a consistent minimal design across all screens, it would be important to understand the relevant importance of the different data points and pieces of information to the user. We'd need to understand what users look for first and what information they need the most and then incorporte these insights into good UX design. 
+
+### 9 Help users recognize, diagnose, and recover from errors 
+*(Expressed in plain language (no codes).Precisely indicate the problem. Constructively suggest a solution.)*
+
+**Severity rating: 1**
+
+**Evaluation:**
+For the most part Yelp highlights errors in red and displays text in explaining the error. This heuristic may not require too much work but in some places, the error highlights could be made more prominent so that the user is more quickly notified of the error.
+
+### 10. Help and Documentation 
+*(Even though it is better if the system can be used without documentation, it may be necessary to provide help and documentation. Help information should be easy to search, focused on the user's task, list concrete steps to be carried out, and not be too large.)*
+
+**Severity rating: 3**
+
+**Evaluation:**
+The help information for Yelp is quite comprehensive with detailed trouble shooting tips in the support FAQ. However, it lacks a clear way of directly submiting an issue or question. The functionality certainly exists but may be difficult to find when the user navigates through the elaborate help section on the website. Also, it is quite difficult to find the documentation directly through the website. One may have to google Yelp support in order to find the page quickly. This is not conducive to the situation in which a user needs help. 
+
+![help yelp](https://github.com/anerichouhan/dh150/blob/master/Screen%20Shot%202020-04-08%20at%202.28.12%20PM.png)
