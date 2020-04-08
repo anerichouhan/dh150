@@ -7,5 +7,6 @@ DH 150
 
 The TechCrunch Website is a public news website that focuses on providing people with information and stories around technology, business, and startups. While the website has several pieces of information and many features, they are not organized in a way that makes it easy for users to find what they are looking for. My project will focus on understanding what users seek on TechCrunch and creating a UX that aligns with those needs as well as Nielson’s 10 Heuristics. My goal is to create a user experience that enables users to successfully find the content they are looking for and enjoy the process of consuming and interacting with the content.
 
-Website URL: [https://techcrunch.com/]
+[Website URL](https://techcrunch.com/)
 
+![TechCrunch Website](https://github.com/anerichouhan/dh150/blob/master/Screen%20Shot%202020-04-08%20at%2010.05.28%20AM.png)
