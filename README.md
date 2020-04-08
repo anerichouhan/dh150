@@ -94,7 +94,7 @@ The TechCrunch Website does a poor to cater to new users. It lacks the presence 
 **Evaluation:**
 The TechCrunch website definitely lacks the minimalistic design because it is extremely crowded and often contains information that is irrelevant to the user. When a user clicks on an article to read, they are flooded with other recommendations, events, and settings. This makes it difficult for the user to fully enjoy the article they are reading and consequently reduces the value being delivered to users. 
 
-###9 Help users recognize, diagnose, and recover from errors 
+### 9 Help users recognize, diagnose, and recover from errors 
 *(Expressed in plain language (no codes).Precisely indicate the problem. Constructively suggest a solution.)*
 
 **Severity rating: 4**
@@ -112,7 +112,10 @@ The website does an extremely poor job of helping users recover from errors. Upo
 The first issue with the help and documentation on TechCrunch is that it is difficult to find. It is embedded deep in the contact us part of the website and is not directly accessible. This is problematic because when a user has a problem to solve, if finding the solution is a long and difficult task, they are bound to be more frustrated. 
 The second issue is that the help information is not documented well. This part of the website serves more as a place to report errors than to get a solution. 
 
-![help]()
+![help](https://github.com/anerichouhan/dh150/blob/master/Screen%20Shot%202020-04-08%20at%2012.15.33%20PM.png)
+
+____________________________________________________________________________________________________________
+
 
 
 
