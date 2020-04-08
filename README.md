@@ -45,6 +45,7 @@ In the real world, when a user consumes news or information from sources like ne
 *(Users often choose system functions by mistake. Provide a clearly marked "out" to leave an unwanted state without having to go through an extended dialogue. Support undo and redo.)*
 
 **Severity rating: 3**
+
 **Evaluation:**
 
 Upon entering the TechCrunch website, the users have poor control over where they would like to go or the kind of content they can see. They are compelled to view the content that is presented to them as searching for content they wish to view is difficult. The lack of viewable categorization and easy search leads to a less personalized experience. 
@@ -53,6 +54,7 @@ Upon entering the TechCrunch website, the users have poor control over where the
 *(Users should not have to wonder whether different words, situations, or actions mean the same thing. Follow platform conventions.)*
 
 **Severity rating: 3**
+
 **Evaluation:**
 The TechCrunch Website uses somewhat consistent wording everywhere. However, some of the language it uses could be confusing to the user. For instance, right next to the ‘Gadgets’ category option, there’s an option called ‘features’. Since this is a tech info website, individuals may tend to think that the word ‘features’ refer to product or tech features, when in reality, they mean featured stories. 
 In terms of visuals, the website does not follow many intuitive UX best practices like having the login function in the top right and mainting a constant navigation bar.  
@@ -61,6 +63,7 @@ In terms of visuals, the website does not follow many intuitive UX best practice
 *(Even better than good error messages is a careful design which prevents a problem from occurring in the first place.)*
 
 **Severity rating: 2**
+
 **Evaluation:**
 The website does not give the user a warning if they are about to leave a page without completing a task. For instance if a user begins to comment on a post, it does not inform the user that the content would be lost if they exit. Another aspect that may lead to an error is that while creating an account, the user is not prompted to re-enter their password. While this may make the account creation process easy for the user, it may lead them to enter the wrong password and then have to go through the hassle of resetting it the next time they wish to login. 
 
@@ -70,13 +73,15 @@ The website does not give the user a warning if they are about to leave a page w
 *(Make objects, actions, and options visible. User should not have to remember information from one part of the dialogue to another. Instructions for use of the system should be visible or easily retrievable whenever appropriate.)*
 
 **Severity rating: 3**
+
 **Evaluation:**
 If the user is looking for specific content, they have to heavily rely on their own recollection to find the content. The TechCrunch search functionality is not easily accessible or intuitive. Furthermore, the information lacks visible categorization. The user has to go deep into the site and remember what they are looking for all throughout this process. The situation is made worse by the fact that the overwhelming amount of content displayed may distract the user and make it harder for them to discover what they are looking for. 
 
-###7. Flexibility and efficiency of use 
+### 7. Flexibility and efficiency of use 
 *(Accelerators -- unseen by the novice user -- may often speed up the interaction for the expert user so that the system can cater to both inexperienced and experienced users.  Allow users to tailor frequent actions.)*
 
 **Severity rating: 3**
+
 **Evaluation:**
 The TechCrunch Website does a poor to cater to new users. It lacks the presence of consistent call to action buttons and leaves the user confused as to what their next steps should be. In some cases, because there is so many pieces of information and an abundance of clickables, the user may take a long time to advance through the website. This makes the website quite inefficient to use.
 
@@ -84,6 +89,7 @@ The TechCrunch Website does a poor to cater to new users. It lacks the presence 
 *(Dialogues should not contain information which is irrelevant or rarely needed.  Every extra unit of information in a dialogue competes with the relevant units of information and diminishes their relative visibility.)*
 
 **Severity rating: 4**
+
 **Evaluation:**
 The TechCrunch website definitely lacks the minimalistic design because it is extremely crowded and often contains information that is irrelevant to the user. When a user clicks on an article to read, they are flooded with other recommendations, events, and settings. This makes it difficult for the user to fully enjoy the article they are reading and consequently reduces the value being delivered to users. 
 
