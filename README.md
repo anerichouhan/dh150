@@ -42,6 +42,7 @@ However, the TechCrunch website does a poor job of informing users of where they
 *(Speak the users' language, with words, phrases, and concepts familiar to the user, rather than system-oriented terms. Follow real-world conventions, making information appear in a natural and logical order.)*
 
 **Severity rating: 4**
+
 **Evaluation:**
 In the real world, when a user consumes news or information from sources like newspapers and magazines, information is systematically categorized in defined categories. For instance, the first page of a newspaper may contain important stories, and then the pages after that are dedicated to special topics. One page may be devoted to sports while the other may be for economics. The TechCrunch website does a poor job of matching the real world and categorizing their stories. While the homepage may display important stories, the rest of the website seems more like a content aggregate than a categorically organized place for information. 
 
@@ -138,7 +139,24 @@ Yelp is a website that aims to connect the public with businesses around them. T
 ### 1. Visibility of System Status
 *(Always keep users informed about what is going on. Provide appropriate feedback within a reasonable time.)*
 
-**Severity rating: 2**
+**Severity rating: 3**
+
 **Evaluation:**  
 Yelp has a lot of information on its website. As a result, it is often difficult for users to get quick feedback on what stage of the business booking process they are on. Yelp has features like filters on some pages but does not always show a user what filters they have or can apply. This may lead to a user getting lost amongst the abundance of information without a clear understanding of what is going on and how they got there. 
+
+### 2. Match between System and the Real World
+*(Speak the users' language, with words, phrases, and concepts familiar to the user, rather than system-oriented terms. Follow real-world conventions, making information appear in a natural and logical order.)*
+
+**Severity rating: 2**
+
+**Evaluation:**
+In the real world, users are used to viewing menus in systematic categories and are able to take action directly from the menu and order. Yelp does not fully reflect the real world. For instance, in some cases it displays menus as lists, sometimes it is just a loose collection of photographs and sometimes it links directly to the company website. The inconsistency may be stressful or inefficient for a user but furthermore, in none of these menu scenarios can a user take action an order like they would in the real world. To order food, a user needs to go through a separate interface. 
+
+### 3. User Control and Freedom
+*(Users often choose system functions by mistake. Provide a clearly marked "out" to leave an unwanted state without having to go through an extended dialogue. Support undo and redo.)*
+
+**Severity rating: 3**
+
+**Evaluation:**
+While in general Yelp offers users a fair amount of control deep within the site, there is a fundamental lack of consistency when a user enters the home page. The homepage displays ever-changing and random categories of businesses and marks no clear direction for what the user must do. It also does not showcase the very useful functionalities of filters that only emerge later in user flows. This may lead users down paths they do not wish to with unclear routes of exit or resetting.
 
