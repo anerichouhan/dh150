@@ -29,8 +29,9 @@ Note: Severity Ratings are from 0-4 following Nielson’s scale of problems:
 ### 1. Visibility of System Status
 *(Always keep users informed about what is going on. Provide appropriate feedback within a reasonable time.)*
 
-**Severity rating: 3
-Evaluation:**  
+**Severity rating: 3**
+
+**Evaluation:**  
 When it comes to providing users with the context of what the current state of the system is, the website does a decent job when loading content. It displays the TechCrunch logo in a generative fashion by building up the logo in parts to indicate the concept of loading. 
 However, the TechCrunch website does a poor job of informing users of where they are on the website, or how they got there, or how to go back. This creates a sense of disorientation for the users with respect to the state of the system.
 
@@ -92,5 +93,14 @@ The TechCrunch Website does a poor to cater to new users. It lacks the presence 
 
 **Evaluation:**
 The TechCrunch website definitely lacks the minimalistic design because it is extremely crowded and often contains information that is irrelevant to the user. When a user clicks on an article to read, they are flooded with other recommendations, events, and settings. This makes it difficult for the user to fully enjoy the article they are reading and consequently reduces the value being delivered to users. 
+
+###9 Help users recognize, diagnose, and recover from errors 
+*(Expressed in plain language (no codes).Precisely indicate the problem. Constructively suggest a solution.)*
+
+**Severity rating: 4**
+
+**Evaluation:**
+The website does an extremely poor job of helping users recover from errors. Upon making a mistake while logging in, the website simply shows users the message that states “Uh-oh. We can’t sign you in right now. Please try again in a while.” It does not indicate to users what went wrong or what they should try fixing.Another example of poor error correction is the message “An error occurred with this page. Sorry for the inconvenience. ” While it informs the user than an error has occurred in provides no description of the error or guidance for the user to find a solution. This could get very frustrating for a user.
+![error]()
 
 
