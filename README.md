@@ -1,15 +1,16 @@
 
 
 **Aneri Chouhan**
-DH 150
 
-# TechCrunch
+***DH 150***
+
+# A. TechCrunch
 
 ***Project: Information Architecture and Usability Redesign for the TechCrunch website***
 
 The TechCrunch Website is a public news website that focuses on providing people with information and stories around technology, business, and startups. While the website has several pieces of information and many features, they are not organized in a way that makes it easy for users to find what they are looking for. My project will focus on understanding what users seek on TechCrunch and creating a UX that aligns with those needs as well as Nielson’s 10 Heuristics. My goal is to create a user experience that enables users to successfully find the content they are looking for and enjoy the process of consuming and interacting with the content.
 
-[Website URL](https://techcrunch.com/)
+[TechCrunch Website URL](https://techcrunch.com/)
 
 ![TechCrunch Website](https://github.com/anerichouhan/dh150/blob/master/Screen%20Shot%202020-04-08%20at%2010.05.28%20AM.png)
 
@@ -118,6 +119,26 @@ The second issue is that the help information is not documented well. This part 
 
 ____________________________________________________________________________________________________________
 
+# B. YELP
 
+Yelp is a website that aims to connect the public with businesses around them. The website serves as a platform for the public to discover, review, book, and learn more about businesses and services like restaurants, dentists, movers, massage therapists, etc. While Yelp is known to be a reliable site that contains a vast amount of information, it is often difficult for users to obtain this information quickly. If I were to redesign Yelp, I would focus on increasing ease of use by systematically incorporating better information structures in the User Experience. 
 
+[Yelp Website URL](https://www.yelp.com/)
+![yelp](https://github.com/anerichouhan/dh150/blob/master/Screen%20Shot%202020-04-08%20at%201.11.27%20PM.png)
+
+**Tasks:** In order to evaluate the website I tried attempting the following tasks:
+- Creating an account
+- Logging in
+- Searching for a restaurant
+- Reading Reviews
+- Writing a review
+- Looking for menus/service offerings
+- Contacting business
+
+### 1. Visibility of System Status
+*(Always keep users informed about what is going on. Provide appropriate feedback within a reasonable time.)*
+
+**Severity rating: 2**
+**Evaluation:**  
+Yelp has a lot of information on its website. As a result, it is often difficult for users to get quick feedback on what stage of the business booking process they are on. Yelp has features like filters on some pages but does not always show a user what filters they have or can apply. This may lead to a user getting lost amongst the abundance of information without a clear understanding of what is going on and how they got there. 
 
