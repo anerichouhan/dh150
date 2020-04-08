@@ -101,6 +101,18 @@ The TechCrunch website definitely lacks the minimalistic design because it is ex
 
 **Evaluation:**
 The website does an extremely poor job of helping users recover from errors. Upon making a mistake while logging in, the website simply shows users the message that states “Uh-oh. We can’t sign you in right now. Please try again in a while.” It does not indicate to users what went wrong or what they should try fixing.Another example of poor error correction is the message “An error occurred with this page. Sorry for the inconvenience. ” While it informs the user than an error has occurred in provides no description of the error or guidance for the user to find a solution. This could get very frustrating for a user.
-![error]()
+![error](https://github.com/anerichouhan/dh150/blob/master/Screen%20Shot%202020-04-08%20at%2011.01.55%20AM.png)
+
+### 10. Help and Documentation 
+*(Even though it is better if the system can be used without documentation, it may be necessary to provide help and documentation. Help information should be easy to search, focused on the user's task, list concrete steps to be carried out, and not be too large.)*
+
+**Severity rating: 3**
+
+**Evaluation:**
+The first issue with the help and documentation on TechCrunch is that it is difficult to find. It is embedded deep in the contact us part of the website and is not directly accessible. This is problematic because when a user has a problem to solve, if finding the solution is a long and difficult task, they are bound to be more frustrated. 
+The second issue is that the help information is not documented well. This part of the website serves more as a place to report errors than to get a solution. 
+
+![help]()
+
 
 
